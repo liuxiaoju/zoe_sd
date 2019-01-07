@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "SDWebImageCompat.h"
 #import "SDImageCacheConfig.h"
-
+//今天也要加油🦆鸭
 typedef NS_ENUM(NSInteger, SDImageCacheType) {
     /**
      * The image wasn't available the SDWebImage caches, but was downloaded from the web.
